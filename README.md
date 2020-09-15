@@ -2,12 +2,3 @@
 List of Scripts:
 
 Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
-Place-Holder
