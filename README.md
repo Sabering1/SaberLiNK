@@ -1,2 +1,2 @@
 # Sabering-bot
-Sabering Empire bot
+Sabering bot
