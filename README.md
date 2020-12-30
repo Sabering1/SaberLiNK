@@ -6,6 +6,9 @@ Upotreba SaberLiNK-a za napad na ciljeve bez prethodnog međusobnog pristanka je
 Ovaj tool je testiran na Kali Linux-u, Debianu, Ubuntu i trebalo bi da radi na svim Ubuntu Flavorima, Kao sto su Pop OS i slicno.
 
 git clone https://github.com/Sabering1/SaberLiNK
+
 cd SaberLink
-bash ./Saberlink
+
+bash ./Saberlink.sh
+
 # Ako imate pitanja mozete me kontaktirati putem Element-a na @sabering:matrix.org
