@@ -7,7 +7,7 @@ url_checker() {
     fi
 }
 
-echo -n "Postavi svoj Phishing URL ovde. (Sa http ili https ex; Https://ZliURL.com): "
+echo -n "Postavi svoj Phishing URL ovde. (Sa http ili https ex; https://ZliURL.com): "
 read phish
 url_checker $phish
 sleep 1
